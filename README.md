@@ -3,7 +3,12 @@
 Meu nome é Leandro, sou estudante de Ciências da Computação na PUC-PR, aqui estão alguns dos meus projetos que já fiz.
 
 |**Link**|**Descrição**|
-|[Análise Exploratoria - SINASC](https://github.com/danielnowakassis/SINASC-Dataset)||
+|-----|-----|
+|[Conta Bancária Orientada a Objetos](https://github.com/LeandroDurau/Projeto-POO/tree/main)|Trabalho da matéria de Programação Orientada a Objetos - 2° Período, onde montei um aplicação de banco, podendo realizar depósitos, retiradas e transferências entre contas.|
+|[Base de Email Enron em Grafos](https://github.com/LeandroDurau/TDE3-RPG)|Trabalho da matéria de Resolução de Problemas com Grafos - 4° Período, onde transformando a base de emails da empresa Enron Corporation em grafos, o que nesse formato conseguimos montar correlações entre as trocas de mensagens realizadas entre funcionários.|
+|[MinMax em Jogo da Velha](https://github.com/danielnowakassis/Minimax-Jogo-da-Velha)|Trabalho da matéria de IA - 6° Período, onde montamos um algoritmo de MinMax para jogar o Jogo da Velha 4x4, podendo escolher Computador vs Humano e Computador vs Computador.|
+|[Análise Exploratória - SINASC](https://github.com/danielnowakassis/SINASC-Dataset)|Trabalho da matéria de Data Science - 6° Período, onde realizamos uma análise Exploratória da base de dados da SINASC, está base contém vários nascimentos ocorridos no Brasil inteiro, com objetivo de descobrir correlações dos dados entre o nascimento pré-maturo do bebê.|
+
 <!--
 **LeandroDurau/LeandroDurau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
