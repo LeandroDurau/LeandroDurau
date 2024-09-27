@@ -1,5 +1,9 @@
-## Hi there 👋
+## Ola! 👋
 
+Meu nome é Leandro, sou estudante de Ciências da Computação na PUC-PR, aqui estão alguns dos meus projetos que já fiz.
+
+|**Link**|**Descrição**|
+|[Análise Exploratoria - SINASC](https://github.com/danielnowakassis/SINASC-Dataset)||
 <!--
 **LeandroDurau/LeandroDurau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
